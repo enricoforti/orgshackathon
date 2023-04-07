@@ -31,7 +31,7 @@ This hackathon aims to foster the development of macro-level research on topics 
 **Maciej Workiewicz**, ESSEC Business School<br>
 
 <h2>Lead Sponsor</h2>
-OMT
+OMT<br>
 
 **Co-Sponsors:**
 STR, OB, RM
