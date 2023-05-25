@@ -4,9 +4,9 @@
 
 _Pre-registration is recommended for facilitating interactions during Part 2, but all AOM attendees are welcome to attend the entire PDW without pre-registration._
 
-Session Type: PDW Workshop
-Submission: 12013 | Sponsor(s): (OMT, STR, OB, RM)
-Scheduled: Saturday, Aug 5 2023 8:00AM - 12:00PM ET (UTC-4) at Boston Park Plaza in White Hill Room
+Session Type: PDW Workshop<br>
+Submission: 12013 | Sponsor(s): (OMT, STR, OB, RM)<br>
+Scheduled: **Saturday, Aug 5 2023 8:00AM - 12:00PM ET** (UTC-4) at **Boston Park Plaza** in **White Hill Room**<br>
 
 This hackathon aims to foster the development of macro-level research on topics associated with organization design, careers, and work performance. Participants will come together for a focused effort to collaboratively nurture a set of specific research “seeds”: a research question looking for a viable empirical strategy; a bleeding edge method looking for possible applications in management research; a dataset that may be of interest for management scholars. Contributors that are experts in their respective fields kickstart the event by providing the seeds. All participants will have the opportunity to brainstorm solutions to common empirical problems and develop new research designs to tackle challenging research questions. The event involves a high level of collaboration and creativity, as participants work quickly and intensively to generate new insights or solutions. Our goal is to offer an interactive and developmental session, fostering research collaborations between scholars at different stages of their careers and from different disciplinary and demographic backgrounds.
 
