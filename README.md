@@ -52,4 +52,4 @@ STR, OB, RM
 
 <h2>Pre-registration Survey</h2>
 
-_Coming soon!_
+Please use this [link](https://insead.eu.qualtrics.com/jfe/form/SV_bvLluvA5hIlGO10) to pre-register yourself to attend Part 2 of the PDW **before July 15, 2023**. Pre-registration is recommended for facilitating interactions during Part 2, but all AOM attendees are welcome to attend the entire PDW without pre-registration.
