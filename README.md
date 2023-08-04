@@ -16,7 +16,7 @@ This hackathon aims to foster the development of macro-level research on topics 
  
 <h2>Participants</h2>
 
-**Bukky Akinsanmi**, University of Texas-Austin and London Business School<br>
+**Bukky Akinsanmi**, London Business School<br>
 **Julien Clement**, Stanford University<br>
 **Ying-Ying Hsieh**, Imperial College Business School<br>
 **Monika Kackovic**, University of Amsterdam<br>
