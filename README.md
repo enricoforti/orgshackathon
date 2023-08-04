@@ -27,7 +27,7 @@ This hackathon aims to foster the development of macro-level research on topics 
 
 **Daphne Baldassari**, University of Toronto<br>
 **Oliver Baumann**, University of Southern Denmark<br>
-**Kim Claes**, Sungkyunkwan University<br>
+**Kim Claes**, Cornell University<br>
 **Victoria Sevcenko**, INSEAD<br>
 **Maciej Workiewicz**, ESSEC Business School<br>
 
