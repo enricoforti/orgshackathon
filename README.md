@@ -10,7 +10,7 @@ This hackathon aims to foster the development of macro-level research on topics 
 
 <h2>Organizers</h2>
 
-**Enrico Forti**, Manhattan College and UCL<br>
+**Enrico Forti**, Seton Hall University and UCL<br>
 **Piyush Gulati**, INSEAD<br>
 **Ulya Tsolmon**, Washington University in St. Louis<br>
  
